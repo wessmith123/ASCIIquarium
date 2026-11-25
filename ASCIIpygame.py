@@ -503,7 +503,7 @@ class kelp:
 #######################################################
 #region GAME Loading
 #######################################################
-B_add, B_remove = Button(17), Button(27)
+B_add, B_remove = Button(16), Button(6)
 
 FISH_ADD = pygame.event.custom_type()
 FISH_REMOVE = pygame.event.custom_type()
